@@ -1,0 +1,6 @@
+.to_do, .in_progress, .finish{
+    border: solid;
+    float: left;
+    height: 500px;
+    width: 30%;
+}
